@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgb(39, 2, 66);
+    color: rgb(230, 234, 236);
+    height: 72px;
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    font-family: "Bitcount Grid Single", system-ui;
+
+}
+nav ul{
+    list-style-type: none;
+}
+
+.gameContainer{
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
