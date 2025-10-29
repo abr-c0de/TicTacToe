@@ -1,6 +1,6 @@
 console.log("Welcome to Tic..Tac...Toe....")
-const turnSound = new Audio("clickSound.mp3");
-const gameover = new Audio("gameover.mp3");
+const turnSound = new Audio("Resources/clickSound.mp3");
+const gameover = new Audio("Resources/gameover.mp3");
 
 let turn = "X"
 let isgameover = false;
